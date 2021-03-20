@@ -8,3 +8,15 @@ C:\Users\osma2\Desktop\escritorio\programacion\proyectos\Escritorio\CalendarioPE
 C:\Users\osma2\Desktop\escritorio\programacion\proyectos\Escritorio\CalendarioPED\CalendarioPED\obj\Debug\CalendarioPED.csproj.CoreCompileInputs.cache
 C:\Users\osma2\Desktop\escritorio\programacion\proyectos\Escritorio\CalendarioPED\CalendarioPED\obj\Debug\CalendarioPED.exe
 C:\Users\osma2\Desktop\escritorio\programacion\proyectos\Escritorio\CalendarioPED\CalendarioPED\obj\Debug\CalendarioPED.pdb
+C:\Users\osma2\Desktop\escritorio\programacion\proyectos\Escritorio\CalendarApp\CalendarioPED\CalendarioPED\bin\Debug\CalendarioPED.exe.config
+C:\Users\osma2\Desktop\escritorio\programacion\proyectos\Escritorio\CalendarApp\CalendarioPED\CalendarioPED\bin\Debug\CalendarioPED.exe
+C:\Users\osma2\Desktop\escritorio\programacion\proyectos\Escritorio\CalendarApp\CalendarioPED\CalendarioPED\bin\Debug\CalendarioPED.pdb
+C:\Users\osma2\Desktop\escritorio\programacion\proyectos\Escritorio\CalendarApp\CalendarioPED\CalendarioPED\obj\Debug\CalendarioPED.csprojAssemblyReference.cache
+C:\Users\osma2\Desktop\escritorio\programacion\proyectos\Escritorio\CalendarApp\CalendarioPED\CalendarioPED\obj\Debug\CalendarioPED.Form1.resources
+C:\Users\osma2\Desktop\escritorio\programacion\proyectos\Escritorio\CalendarApp\CalendarioPED\CalendarioPED\obj\Debug\CalendarioPED.FrCategoria.resources
+C:\Users\osma2\Desktop\escritorio\programacion\proyectos\Escritorio\CalendarApp\CalendarioPED\CalendarioPED\obj\Debug\CalendarioPED.Properties.Resources.resources
+C:\Users\osma2\Desktop\escritorio\programacion\proyectos\Escritorio\CalendarApp\CalendarioPED\CalendarioPED\obj\Debug\CalendarioPED.csproj.GenerateResource.cache
+C:\Users\osma2\Desktop\escritorio\programacion\proyectos\Escritorio\CalendarApp\CalendarioPED\CalendarioPED\obj\Debug\CalendarioPED.csproj.CoreCompileInputs.cache
+C:\Users\osma2\Desktop\escritorio\programacion\proyectos\Escritorio\CalendarApp\CalendarioPED\CalendarioPED\obj\Debug\CalendarioPED.exe
+C:\Users\osma2\Desktop\escritorio\programacion\proyectos\Escritorio\CalendarApp\CalendarioPED\CalendarioPED\obj\Debug\CalendarioPED.pdb
+C:\Users\osma2\Desktop\escritorio\programacion\proyectos\Escritorio\CalendarApp\CalendarioPED\CalendarioPED\obj\Debug\CalendarioPED.FrOpacity.resources
